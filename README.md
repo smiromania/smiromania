@@ -28,7 +28,7 @@ and work on computer vision, from an ADHD screening system to real-time facial r
 
 **QA & Test**
 
-![Playwright](https://img.shields.io/badge/Playwright-72c506?style=flat-square&labelColor=0a0f0c&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nIzcyYzUwNicgZD0nTTEyIDJDNyAyIDQgNSA0IDEwYzAgNiA0IDEyIDggMTJzOC02IDgtMTJjMC01LTMtOC04LThabS0zIDdhMS41IDEuNSAwIDExMCAzIDEuNSAxLjUgMCAwMTAtM1ptNiAwYTEuNSAxLjUgMCAxMTAgMyAxLjUgMS41IDAgMDEwLTNabS02IDZjMSAxLjQgMiAyIDMgMnMyLS42IDMtMmMtMSAuNy0yIDEtMyAxcy0yLS4zLTMtMVonLz48L3N2Zz4%3D)
+![Playwright](assets/playwright.svg)
 ![Detox](https://img.shields.io/badge/Detox-72c506?style=flat-square&labelColor=0a0f0c&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nIzcyYzUwNicgZD0nTTEyIDFMMyA1djZjMCA1LjUgMy44IDEwLjcgOSAxMiA1LjItMS4zIDktNi41IDktMTJWNWwtOS00em0tMS4yIDE1LjJsLTMuNS0zLjUgMS40LTEuNCAyLjEgMi4xIDQuNi00LjYgMS40IDEuNC02IDZ6Jy8%2BPC9zdmc%2B)
 ![Postman](https://img.shields.io/badge/Postman-72c506?style=flat-square&labelColor=0a0f0c&logo=postman&logoColor=72c506)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-72c506?style=flat-square&labelColor=0a0f0c&logo=androidstudio&logoColor=72c506)
