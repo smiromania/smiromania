@@ -9,7 +9,7 @@
 **QA Automation Engineer** @ [QA DNA](https://www.qadna.co/) · **Computer Vision & Deep Learning**
 
 Applied Electronics graduate (UPB). I build test automation for web & mobile with Playwright and Detox,
-and work on computer vision — from an ADHD screening system to real-time facial recognition on NVIDIA Jetson.
+and work on computer vision, from an ADHD screening system to real-time facial recognition on NVIDIA Jetson.
 
 <br/>
 
@@ -38,9 +38,9 @@ and work on computer vision — from an ADHD screening system to real-time facia
 
 ### `~/ projects`
 
-- **ADHD Diagnosis via Deep Learning Video Analysis** — bachelor's thesis, scored 9.90/10. CNN + eye-gaze tracking on a custom video dataset. [Live app ↗](https://app.ionelul.com/behaviour-analysis)
-- **Real-time Facial Recognition System** — edge AI on NVIDIA Jetson, FaceNet embeddings, Dockerized. Honorable Mention at [Politehnica Forward](https://upb.ro/politehnica-forward/).
-- **[ionelul.com](https://ionelul.com)** — portfolio in React 19 + Vite 8, every route prerendered to static HTML on Cloudflare Pages.
+- **ADHD Diagnosis via Deep Learning Video Analysis**: bachelor's thesis, scored 9.90/10. CNN + eye-gaze tracking on a custom video dataset ([live app](https://app.ionelul.com/behaviour-analysis)).
+- **Real-time Facial Recognition System**: edge AI on NVIDIA Jetson, FaceNet embeddings, Dockerized. Honorable Mention at [Politehnica Forward](https://upb.ro/politehnica-forward/).
+- **[ionelul.com](https://ionelul.com)**: portfolio in React 19 + Vite 8, every route prerendered to static HTML on Cloudflare Pages.
 
 ---
 
@@ -54,5 +54,5 @@ and work on computer vision — from an ADHD screening system to real-time facia
 </div>
 
 <div align="center">
-<sub>Dark bench-lab theme — phosphor lime on near-black, same palette as <a href="https://ionelul.com">ionelul.com</a></sub>
+<sub>Dark bench-lab theme: phosphor lime on near-black, same palette as <a href="https://ionelul.com">ionelul.com</a></sub>
 </div>
