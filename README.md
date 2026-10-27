@@ -15,7 +15,7 @@ and work on computer vision — from an ADHD screening system to real-time facia
 
 [![Portfolio](https://img.shields.io/badge/ionelul.com-72c506?style=flat-square&labelColor=0a0f0c&logo=firefox&logoColor=0a0f0c)](https://ionelul.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5ccfff?style=flat-square&labelColor=0a0f0c&logo=linkedin&logoColor=0a0f0c)](https://www.linkedin.com/in/ionel-stefan-bb7880188/)
-[![Email](https://img.shields.io/badge/Email-aab6ad?style=flat-square&labelColor=0a0f0c&logo=gmail&logoColor=0a0f0c)](mailto:tedygamer7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aab6ad?style=flat-square&labelColor=0a0f0c&logo=gmail&logoColor=0a0f0c)](mailto:contact@ionelul.com)
 
 </div>
 
