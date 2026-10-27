@@ -13,10 +13,10 @@ and work on computer vision, from an ADHD screening system to real-time facial r
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/ionelul.com-72c506?style=flat-square&labelColor=0a0f0c&logo=firefox&logoColor=0a0f0c)](https://ionelul.com)
-[![Apps](https://img.shields.io/badge/apps-app.ionelul.com-72c506?style=flat-square&labelColor=0a0f0c&logo=pwa&logoColor=0a0f0c)](https://app.ionelul.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5ccfff?style=flat-square&labelColor=0a0f0c&logo=linkedin&logoColor=0a0f0c)](https://www.linkedin.com/in/ionel-stefan-bb7880188/)
-[![Email](https://img.shields.io/badge/Email-aab6ad?style=flat-square&labelColor=0a0f0c&logo=gmail&logoColor=0a0f0c)](mailto:contact@ionelul.com)
+[![Portfolio](https://img.shields.io/badge/ionelul.com-72c506?style=flat-square&labelColor=0a0f0c&logo=react&logoColor=72c506)](https://ionelul.com)
+[![Apps](https://img.shields.io/badge/app.ionelul.com-72c506?style=flat-square&labelColor=0a0f0c&logo=pwa&logoColor=72c506)](https://app.ionelul.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5ccfff?style=flat-square&labelColor=0a0f0c&logo=linkedin&logoColor=5ccfff)](https://www.linkedin.com/in/ionel-stefan-bb7880188/)
+[![Email](https://img.shields.io/badge/contact@ionelul.com-aab6ad?style=flat-square&labelColor=0a0f0c&logo=maildotru&logoColor=aab6ad)](mailto:contact@ionelul.com)
 
 </div>
 
