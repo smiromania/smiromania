@@ -15,7 +15,7 @@ and work on computer vision, from an ADHD screening system to real-time facial r
 
 [![Portfolio](https://img.shields.io/badge/ionelul.com-72c506?style=flat-square&labelColor=0a0f0c&logo=react&logoColor=72c506)](https://ionelul.com)
 [![Apps](https://img.shields.io/badge/app.ionelul.com-72c506?style=flat-square&labelColor=0a0f0c&logo=pwa&logoColor=72c506)](https://app.ionelul.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5ccfff?style=flat-square&labelColor=0a0f0c&logo=linkedin&logoColor=5ccfff)](https://www.linkedin.com/in/ionel-stefan-bb7880188/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5ccfff?style=flat-square&labelColor=0a0f0c&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nIzVjY2ZmZicgZD0nTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Jy8%2BPC9zdmc%2B)](https://www.linkedin.com/in/ionel-stefan-bb7880188/)
 [![Email](https://img.shields.io/badge/contact@ionelul.com-aab6ad?style=flat-square&labelColor=0a0f0c&logo=maildotru&logoColor=aab6ad)](mailto:contact@ionelul.com)
 
 </div>
@@ -29,7 +29,7 @@ and work on computer vision, from an ADHD screening system to real-time facial r
 **QA & Test**
 
 ![Playwright](https://img.shields.io/badge/Playwright-72c506?style=flat-square&labelColor=0a0f0c&logo=playwright&logoColor=72c506)
-![Detox](https://img.shields.io/badge/Detox-72c506?style=flat-square&labelColor=0a0f0c)
+![Detox](https://img.shields.io/badge/Detox-72c506?style=flat-square&labelColor=0a0f0c&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nIzcyYzUwNicgZD0nTTEyIDFMMyA1djZjMCA1LjUgMy44IDEwLjcgOSAxMiA1LjItMS4zIDktNi41IDktMTJWNWwtOS00em0tMS4yIDE1LjJsLTMuNS0zLjUgMS40LTEuNCAyLjEgMi4xIDQuNi00LjYgMS40IDEuNC02IDZ6Jy8%2BPC9zdmc%2B)
 ![Postman](https://img.shields.io/badge/Postman-72c506?style=flat-square&labelColor=0a0f0c&logo=postman&logoColor=72c506)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-72c506?style=flat-square&labelColor=0a0f0c&logo=androidstudio&logoColor=72c506)
 
@@ -40,8 +40,8 @@ and work on computer vision, from an ADHD screening system to real-time facial r
 ![C++](https://img.shields.io/badge/C%2B%2B-72c506?style=flat-square&labelColor=0a0f0c&logo=cplusplus&logoColor=72c506)
 ![HTML5](https://img.shields.io/badge/HTML5-72c506?style=flat-square&labelColor=0a0f0c&logo=html5&logoColor=72c506)
 ![Arduino](https://img.shields.io/badge/Arduino-72c506?style=flat-square&labelColor=0a0f0c&logo=arduino&logoColor=72c506)
-![MATLAB](https://img.shields.io/badge/MATLAB-72c506?style=flat-square&labelColor=0a0f0c&logo=mathworks&logoColor=72c506)
-![Verilog](https://img.shields.io/badge/Verilog-72c506?style=flat-square&labelColor=0a0f0c)
+![MATLAB](https://img.shields.io/badge/MATLAB-72c506?style=flat-square&labelColor=0a0f0c&logo=octave&logoColor=72c506)
+![Verilog](https://img.shields.io/badge/Verilog-72c506?style=flat-square&labelColor=0a0f0c&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nIzcyYzUwNicgZD0nTTkgMmgydjJoMlYyaDJ2MmgxYTMgMyAwIDAxMyAzdjFoMnYyaC0ydjJoMnYyaC0ydjFhMyAzIDAgMDEtMyAzaC0xdjJoLTJ2LTJoLTJ2Mkg5di0ySDhhMyAzIDAgMDEtMy0zdi0xSDN2LTJoMnYtMkgzVjhoMlY3YTMgMyAwIDAxMy0zaDFWMnptLTEgNWExIDEgMCAwMC0xIDF2OGExIDEgMCAwMDEgMWg4YTEgMSAwIDAwMS0xVjhhMSAxIDAgMDAtMS0xSDh6bTIgMmg0djRoLTRWOXonLz48L3N2Zz4%3D)
 
 **ML & Computer Vision**
 
