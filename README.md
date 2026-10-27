@@ -22,9 +22,9 @@ and work on computer vision, from an ADHD screening system to real-time facial r
 
 ---
 
-<div align="center">
-
 ### `~/ stack`
+
+<div align="center">
 
 **QA & Test**
 
