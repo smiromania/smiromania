@@ -14,6 +14,7 @@ and work on computer vision, from an ADHD screening system to real-time facial r
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/ionelul.com-72c506?style=flat-square&labelColor=0a0f0c&logo=firefox&logoColor=0a0f0c)](https://ionelul.com)
+[![Apps](https://img.shields.io/badge/apps-app.ionelul.com-72c506?style=flat-square&labelColor=0a0f0c&logo=pwa&logoColor=0a0f0c)](https://app.ionelul.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5ccfff?style=flat-square&labelColor=0a0f0c&logo=linkedin&logoColor=0a0f0c)](https://www.linkedin.com/in/ionel-stefan-bb7880188/)
 [![Email](https://img.shields.io/badge/Email-aab6ad?style=flat-square&labelColor=0a0f0c&logo=gmail&logoColor=0a0f0c)](mailto:contact@ionelul.com)
 
@@ -21,18 +22,52 @@ and work on computer vision, from an ADHD screening system to real-time facial r
 
 ---
 
+<div align="center">
+
 ### `~/ stack`
+
+**QA & Test**
 
 ![Playwright](https://img.shields.io/badge/Playwright-72c506?style=flat-square&labelColor=0a0f0c&logo=playwright&logoColor=72c506)
 ![Detox](https://img.shields.io/badge/Detox-72c506?style=flat-square&labelColor=0a0f0c)
+![Postman](https://img.shields.io/badge/Postman-72c506?style=flat-square&labelColor=0a0f0c&logo=postman&logoColor=72c506)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-72c506?style=flat-square&labelColor=0a0f0c&logo=androidstudio&logoColor=72c506)
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-72c506?style=flat-square&labelColor=0a0f0c&logo=python&logoColor=72c506)
+![JavaScript](https://img.shields.io/badge/JavaScript-72c506?style=flat-square&labelColor=0a0f0c&logo=javascript&logoColor=72c506)
+![C++](https://img.shields.io/badge/C%2B%2B-72c506?style=flat-square&labelColor=0a0f0c&logo=cplusplus&logoColor=72c506)
+![HTML5](https://img.shields.io/badge/HTML5-72c506?style=flat-square&labelColor=0a0f0c&logo=html5&logoColor=72c506)
+![Arduino](https://img.shields.io/badge/Arduino-72c506?style=flat-square&labelColor=0a0f0c&logo=arduino&logoColor=72c506)
+![MATLAB](https://img.shields.io/badge/MATLAB-72c506?style=flat-square&labelColor=0a0f0c&logo=mathworks&logoColor=72c506)
+![Verilog](https://img.shields.io/badge/Verilog-72c506?style=flat-square&labelColor=0a0f0c)
+
+**ML & Computer Vision**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-72c506?style=flat-square&labelColor=0a0f0c&logo=pytorch&logoColor=72c506)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-72c506?style=flat-square&labelColor=0a0f0c&logo=tensorflow&logoColor=72c506)
 ![OpenCV](https://img.shields.io/badge/OpenCV-72c506?style=flat-square&labelColor=0a0f0c&logo=opencv&logoColor=72c506)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-72c506?style=flat-square&labelColor=0a0f0c&logo=scikitlearn&logoColor=72c506)
+![ONNX](https://img.shields.io/badge/ONNX-72c506?style=flat-square&labelColor=0a0f0c&logo=onnx&logoColor=72c506)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-72c506?style=flat-square&labelColor=0a0f0c&logo=nvidia&logoColor=72c506)
-![Docker](https://img.shields.io/badge/Docker-72c506?style=flat-square&labelColor=0a0f0c&logo=docker&logoColor=72c506)
+
+**Web**
+
 ![React](https://img.shields.io/badge/React-72c506?style=flat-square&labelColor=0a0f0c&logo=react&logoColor=72c506)
-![JavaScript](https://img.shields.io/badge/JavaScript-72c506?style=flat-square&labelColor=0a0f0c&logo=javascript&logoColor=72c506)
+![Vite](https://img.shields.io/badge/Vite-72c506?style=flat-square&labelColor=0a0f0c&logo=vite&logoColor=72c506)
+![React Router](https://img.shields.io/badge/React%20Router-72c506?style=flat-square&labelColor=0a0f0c&logo=reactrouter&logoColor=72c506)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-72c506?style=flat-square&labelColor=0a0f0c&logo=tailwindcss&logoColor=72c506)
+![Flask](https://img.shields.io/badge/Flask-72c506?style=flat-square&labelColor=0a0f0c&logo=flask&logoColor=72c506)
+
+**Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-72c506?style=flat-square&labelColor=0a0f0c&logo=docker&logoColor=72c506)
+![Git](https://img.shields.io/badge/Git-72c506?style=flat-square&labelColor=0a0f0c&logo=git&logoColor=72c506)
+![Linux](https://img.shields.io/badge/Linux-72c506?style=flat-square&labelColor=0a0f0c&logo=linux&logoColor=72c506)
+![MySQL](https://img.shields.io/badge/MySQL-72c506?style=flat-square&labelColor=0a0f0c&logo=mysql&logoColor=72c506)
+
+</div>
 
 ---
 
@@ -46,8 +81,8 @@ and work on computer vision, from an ADHD screening system to real-time facial r
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smiromania&show_icons=true&hide_border=true&bg_color=0a0f0c&title_color=72c506&icon_color=8ee019&text_color=aab6ad&ring_color=72c506)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smiromania&layout=compact&hide_border=true&bg_color=0a0f0c&title_color=72c506&text_color=aab6ad)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=smiromania&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0a0f0c&title_color=72c506&icon_color=8ee019&text_color=aab6ad&ring_color=72c506)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smiromania&layout=compact&langs_count=10&hide_border=true&bg_color=0a0f0c&title_color=72c506&text_color=aab6ad)
 
 ![Streak](https://streak-stats.demolab.com?user=smiromania&hide_border=true&background=0a0f0c&stroke=1f2b25&ring=72c506&fire=8ee019&currStreakLabel=72c506&sideLabels=aab6ad&dates=8b988f&currStreakNum=e9ede9&sideNums=e9ede9)
 
@@ -55,4 +90,8 @@ and work on computer vision, from an ADHD screening system to real-time facial r
 
 <div align="center">
 <sub>Dark bench-lab theme: phosphor lime on near-black, same palette as <a href="https://ionelul.com">ionelul.com</a></sub>
+</div>
+
+<div align="center">
+<a href="https://demo.ionelul.com" title="."><img src="https://img.shields.io/badge/%E2%80%8B-0d1117?style=flat-square&labelColor=0d1117" alt="." height="12"></a>
 </div>
