@@ -81,8 +81,8 @@ and work on computer vision, from an ADHD screening system to real-time facial r
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smiromania&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0a0f0c&title_color=72c506&icon_color=8ee019&text_color=aab6ad&ring_color=72c506)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smiromania&layout=compact&langs_count=10&hide_border=true&bg_color=0a0f0c&title_color=72c506&text_color=aab6ad)
+![GitHub stats](https://github-readme-stats-three-lac-71.vercel.app/api?username=smiromania&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f0c&title_color=72c506&icon_color=8ee019&text_color=aab6ad&ring_color=72c506)
+![Top languages](https://github-readme-stats-three-lac-71.vercel.app/api/top-langs/?username=smiromania&layout=compact&langs_count=10&count_private=true&hide_border=true&bg_color=0a0f0c&title_color=72c506&text_color=aab6ad)
 
 ![Streak](https://streak-stats.demolab.com?user=smiromania&hide_border=true&background=0a0f0c&stroke=1f2b25&ring=72c506&fire=8ee019&currStreakLabel=72c506&sideLabels=aab6ad&dates=8b988f&currStreakNum=e9ede9&sideNums=e9ede9)
 
